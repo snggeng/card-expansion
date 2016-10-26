@@ -236,3 +236,52 @@ a:focus {
 		line-height: 1.2;
 	}
 }
+
+/*nav {
+  position: fixed;
+  top: 50%;
+  bottom: auto;
+  transform: translateY(-50%);
+  right: 0;
+}
+
+.nav-element {
+  text-align: right;
+  cursor: pointer;
+  margin: 1rem;
+  color: #aaa;
+  transition: color 0.25s;
+}
+
+.navbar-active {
+  color: #000;
+}
+
+.nav-label {
+  opacity: 0;
+  transition: opacity 0.25s;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+
+li:hover .nav-label {
+  opacity: 1;
+  background-color: #fff;
+}*/
+
+.intro-text {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+.intro-text .intro-lead-in .serif-font {
+	font-style: italic;
+	font-size: 22px;
+	line-height: 22px;
+	margin-bottom: 25px;
+}
+.intro-heading .heading-font {
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 25px;
+	margin-bottom: 15px;
+}
