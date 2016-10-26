@@ -74,11 +74,11 @@ a:focus {
 }
 
 .demo-4 a {
-	color: #6448a0;
+	color: white;
 }
 
 .demo-4 .codrops-header h1 span {
-	color: #4f4c4c;
+	color: #3b393d;
 }
 
 .hidden {
@@ -106,7 +106,7 @@ a:focus {
 	font-size: .45em;
 	display: block;
 	padding: .5em 0 1em;
-	color: #999;
+	color: white;
 }
 /* Top Navigation Style */
 
@@ -132,6 +132,7 @@ a:focus {
 
 .codrops-icon {
 	display: inline-block;
+	color: #3b393d;
 	width: 1.5em;
 	margin: .5em;
 	padding: 0em 0;
@@ -270,18 +271,22 @@ li:hover .nav-label {
 }*/
 
 .intro-text {
-	padding-top: 100px;
 	padding-bottom: 50px;
+	color: white;
 }
-.intro-text .intro-lead-in .serif-font {
+.intro-text .intro-lead-in{
 	font-style: italic;
 	font-size: 22px;
 	line-height: 22px;
 	margin-bottom: 25px;
 }
-.intro-heading .heading-font {
+
+.intro-heading {
 	font-weight: 700;
 	font-size: 25px;
 	line-height: 25px;
+	color: white;
 	margin-bottom: 15px;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
 }
